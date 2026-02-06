@@ -1,0 +1,126 @@
+ .u-section-1 {
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to bottom, #ce97cf, #fbeced);
+  background-size: cover;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 576px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Aguafina Script";
+  margin: 56px auto 0;
+}
+
+.u-section-1 .u-list-1 {
+  width: 666px;
+  margin: 56px auto 0 47px;
+}
+
+.u-section-1 .u-repeater-1 {
+  min-height: 216px;
+  grid-template-columns: repeat(2, calc(50% - 48px));
+  --gap: 96px;
+  width: 1046px;
+  margin-right: auto;
+  margin-left: auto;
+  grid-auto-columns: calc(50% - 48px);
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 10px;
+}
+
+.u-section-1 .u-btn-1 {
+  --radius: 50px;
+  font-weight: 700;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  filter: none;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 10px;
+}
+
+.u-section-1 .u-btn-2 {
+  --radius: 50px;
+  font-weight: 700;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  filter: none;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 10px;
+}
+
+.u-section-1 .u-btn-3 {
+  --radius: 50px;
+  font-weight: 700;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  filter: none;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 10px;
+}
+
+.u-section-1 .u-btn-4 {
+  --radius: 50px;
+  font-weight: 700;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  filter: none;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-btn-5 {
+  --radius: 50px;
+  font-weight: 700;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 43px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-repeater-1 {
+    min-height: 339px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-repeater-1 {
+    grid-auto-columns: calc(100% - 0px);
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-list-1 {
+    width: 540px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-list-1 {
+    width: 340px;
+  }
+} .u-section-2 {
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to bottom, #fbeced, #ce97cf);
+  background-size: cover;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 400px;
+}
