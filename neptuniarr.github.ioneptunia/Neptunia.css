@@ -1,0 +1,39 @@
+ .u-section-1 {
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to bottom, #ce97cf, #fbeced);
+  background-size: cover;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 508px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Aguafina Script";
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  --radius: 50px;
+  font-weight: 700;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 0 auto 60px;
+} .u-section-2 {
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to bottom, #fbeced, #ce97cf);
+  background-size: cover;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 400px;
+}
